@@ -1,0 +1,13 @@
+{
+  "name": "referral-automation-script",
+  "version": "1.0.0",
+  "description": "Automated referral process using Playwright and TempMail.",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "playwright": "^1.30.0",
+    "chalk": "4.1.2"
+  }
+}
